@@ -40,11 +40,25 @@ The WebMenu-Cloud Platform takes advantage of the following technologies:
 
 - **HTML and CSS**: HTML provides the structure, while CSS styles the user interface, resulting in an intuitive and visually pleasing design.
 
+## **Screenshots**
+![Screenshot](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/5efe26ed-36c0-4e08-b785-21476572d9db)
+![InternshipPPt_page-0013](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/9b45f785-94fe-4f90-b592-a25bc5de9233)
+![InternshipPPt_page-0014](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/f5c3b814-08ae-4130-8318-b2d108c38ec9)
+![InternshipPPt_page-0015](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/34aea417-1d71-4988-a08c-3a7e660af0b7)
+![InternshipPPt_page-0016](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/baa5311b-0df9-4a05-8d24-bbcc6a6e7ca2)
+![InternshipPPt_page-0017](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/dd1878be-717c-43a8-a2f8-e185206e8dca)
+![InternshipPPt_page-0018](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/7629cda7-fdb5-48b9-94d0-876c7e56da17)
+![InternshipPPt_page-0019](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/0a930875-7bdd-4232-9edd-474dab0ef7b5)
+![InternshipPPt_page-0020](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/279118fa-2c58-4165-a0e3-35fb47252bf8)
+![InternshipPPt_page-0021](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/e2c04c2a-beb2-47c5-ab76-ab9630e7f2b0)
+![InternshipPPt_page-0023](https://github.com/hrs4real/WebMenu_Cloud_Platform/assets/92949812/c5cde91c-2256-43a9-9bb0-dabcb0109b3f)
+
+
+
+
 ## **Conclusion**
 
 The WebMenu-Cloud Platform demonstrates the potential of integrating a variety of technologies to create a user-friendly and intelligent web-based menu-driven interface. By combining AWS EC2 hosting, AJAX for real-time interactions, OpenAI chatbot capabilities, Langchain integration, cloud services, Docker containerization, and well-designed HTML and CSS elements, the platform offers users a streamlined and dynamic experience.
 
 This project showcases the successful implementation of technologies to simplify user interactions, provide intelligent responses through chatbot integration, and effectively utilize cloud resources. The combination of these components enhances the user experience, making the WebMenuAI-Cloud Platform a valuable solution for creating an interactive and responsive menu-driven interface hosted on AWS EC2.
 
-
-[InternshipPPt.pdf](https://github.com/hrs4real/WebMenu_Cloud_Platform/files/14320356/InternshipPPt.pdf)
