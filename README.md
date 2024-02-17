@@ -45,3 +45,6 @@ The WebMenu-Cloud Platform takes advantage of the following technologies:
 The WebMenu-Cloud Platform demonstrates the potential of integrating a variety of technologies to create a user-friendly and intelligent web-based menu-driven interface. By combining AWS EC2 hosting, AJAX for real-time interactions, OpenAI chatbot capabilities, Langchain integration, cloud services, Docker containerization, and well-designed HTML and CSS elements, the platform offers users a streamlined and dynamic experience.
 
 This project showcases the successful implementation of technologies to simplify user interactions, provide intelligent responses through chatbot integration, and effectively utilize cloud resources. The combination of these components enhances the user experience, making the WebMenuAI-Cloud Platform a valuable solution for creating an interactive and responsive menu-driven interface hosted on AWS EC2.
+
+
+[InternshipPPt.pdf](https://github.com/hrs4real/WebMenu_Cloud_Platform/files/14320356/InternshipPPt.pdf)
